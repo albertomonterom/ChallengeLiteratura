@@ -1,0 +1,34 @@
+# Directorios de configuración de IntelliJ IDEA
+.idea/
+
+# Directorios de Maven
+.mvn/wrapper/
+target/
+
+# Archivos de Maven
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Archivos de configuración local
+application.properties
+.env
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de compilación
+*.class
+*.war
+*.jar
+
+# Otros
+scripts/
